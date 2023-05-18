@@ -24,10 +24,11 @@ En el siguiente apartado, vemos como el cartel lateral no solo muestra algunos c
 
 
 En el siguiente campo debemos poner 5 etiquetas y es bastante intuitivo, al escribir una coma automáticamente se formatea como se ve. Y si te mueves con las flechas se puede editar la etiqueta sin problemas. Además, muestra opciones de autocompletado que son navegables mediante flechas.
-En conclusión, el foro de la UNED necesita una actualización en cuanto a accesibilidad, aunque me consta que el campus ya se está moviendo hacia una nueva plataforma.
 
 
 ![cuarta imagen con las recomendaciones de preguntas similares](./imagen4.png)
 
 
 Finalmente nos muestra una serie de sugerencias de artículos similares navegable mediante flecha o TAB, cuyo punto débil es que hay que recorrerla entera para poder confirmar y enviar el mensaje. Aunque decir que aquí los enlaces si se abren en otra ventana (propiedad blank).
+
+En conclusión, el foro de la UNED necesita una actualización en cuanto a accesibilidad, aunque me consta que el campus ya se está moviendo hacia una nueva plataforma.
