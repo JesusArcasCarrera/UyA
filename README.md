@@ -2,7 +2,7 @@
 
 Quiero centrar mi análisis en un formulario de gran importancia para nosotros. El formulario para publicar los mensajes en el foro de cualquier asignatura. Es realmente un formulario simple, pero voy a compararlos con el formulario de otra web de suma importancia para cualquier informático, stackoverflow.
 
- Y es que el formulario de la UNED solo tiene un título, dos botones para citar y adjuntar que no son accesibles mediante teclado; y un editor de texto WYSIWYG que solo permite dos opciones mediante teclado. Un editor aparentemente muy completo, pero en el que solo puedo usar *Ctrl+B* o **Ctrl+I**. Comparemos este editor con el que nos proporciona Stackoverflow.
+ Y es que el formulario de la UNED solo tiene un título, dos botones para citar y adjuntar que no son accesibles mediante teclado; y un editor de texto WYSIWYG que solo permite dos opciones mediante teclado. Un editor aparentemente muy completo, pero en el que solo puedo usar **Ctrl+B** o *Ctrl+I*. Comparemos este editor con el que nos proporciona Stackoverflow.
 
 Nota: usando el ratón he podido ver que hay un par de atajos más, pero solo con el teclado no he podido descubrirlos.
 
